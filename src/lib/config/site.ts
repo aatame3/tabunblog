@@ -11,7 +11,7 @@ export const site: SiteConfig = {
     avatar: '/assets/face.jpg',
     name: 'aatame3',
     status: '🤓',
-    bio: 'キモオタク'
+    bio: '\'08\n学生 一般キモオタク'
   },
   themeColor: '#33ff9f'
 }
