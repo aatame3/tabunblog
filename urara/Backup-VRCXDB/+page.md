@@ -1,6 +1,6 @@
 ---
 title: 'VRCXのDBとかをバックアップする方法'
-image: '\VRCXのDBとかをバックアップする方法\mainpic.webp'
+image: '\VBackup-VRCXDB\mainpic.webp'
 alt: 'りんご飴を食べる僕'
 created: 2024-05-29
 updated: 2024-05-29
